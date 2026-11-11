@@ -1,0 +1,11 @@
+{
+  "name": "AI Agent 学习营",
+  "short_name": "Agent学习营",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#101827",
+  "lang": "zh-CN",
+  "icons": []
+}
